@@ -1,0 +1,77 @@
+[
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "What heuristic search algorithms are used in this study to generate adversarial samples in the problem space?",
+    "expected_page": 1
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "Which proposed framework detects homographs in URLs by employing Siamese Networks?",
+    "expected_page": 2
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "What search technique did the BESA approach leverage to perform word-substitution attacks in the textual information domain?",
+    "expected_page": 3
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "Which specific manipulation introduces hidden external reference elements into the page footer using the hidden attribute or inline style?",
+    "expected_page": 4
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "In the proposed Monte Carlo Tree Search framework's scoring function, what is the role of the constant C?",
+    "expected_page": 5
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "According to the adversarial sample generation algorithm, what determines whether the terminal flag T is set to True or False?",
+    "expected_page": 6
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "How many phishing samples and benign pages does the Zenodo dataset contain?",
+    "expected_page": 7
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "What is the initial temperature parameter (T) set to for the Simulated Annealing algorithm in the experimental setup?",
+    "expected_page": 7
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "What early stopping threshold value (theta) is used to force the attack to continue until the model's confidence is practically zero?",
+    "expected_page": 8
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "What significance threshold alpha was established after applying the Bonferroni correction for multiple hypothesis testing?",
+    "expected_page": 9
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "How many fixed manipulations does the SpacePhish attack baseline apply to a sample?",
+    "expected_page": 10
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "According to the manipulation frequency analysis, which algorithm displays a broad spread across multiple features due to its level-pruning mechanism?",
+    "expected_page": 11
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "Which explainability framework based on cooperative game theory is used to determine the contribution of individual features?",
+    "expected_page": 12
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "Which anomaly detection method measures the local deviation of a data point with respect to its k-nearest neighbors?",
+    "expected_page": 13
+  },
+  {
+    "filename": "Lo Re et al. - 2026 - Adversarial attacks on phishing webpage detectors via heuristic search techniques.pdf",
+    "question": "What soft-voting ensemble model integrates SHAP value signatures using an MLP, Random Forest, and GradientBoostingClassifier?",
+    "expected_page": 14
+  }
+]
